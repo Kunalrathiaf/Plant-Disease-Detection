@@ -8,7 +8,6 @@
 - [Key Features](#key-features)
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
-- [Model Results](#model-results)
 
 ---
 
@@ -42,11 +41,3 @@ After downloading, place the extracted dataset in the `data/` directory.
 - Matplotlib, Seaborn
 - Jupyter Notebook
 - Streamlit
-
----
-
-## Model Results
-
-Accuracy: Achieved XX% test accuracy
-Evaluation: Confusion matrix, precision, recall, F1-score
-Prediction Examples: Visualized with image, predicted label, and probability
